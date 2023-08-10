@@ -72,5 +72,8 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 
 ---
 
-Feel free to explore this repository to learn more about Git, GitHub, forking, hosting, and effective version control. If you have questions or suggestions, open an issue or reach out via email at [your@email.com](mailto:your@email.com).
+Feel free to explore this repository to learn more about Git, GitHub, forking, hosting, and effective version control. If you have questions or suggestions, open an issue or reach out via email at [your@email.com](mailto:lallalbasha111@gmail.com).
 
+## Authors
+
+- [Lalubasha](https://github.com/Lalubasha)
